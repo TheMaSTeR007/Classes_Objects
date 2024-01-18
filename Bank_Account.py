@@ -31,7 +31,7 @@ Person_2.display()
 Person_1.deposit(10)
 Person_1.display()
 
-# Calling deposit method on Person_1 & displaying balance after transactions
+# Calling deposit method on Person_2 & displaying balance after transactions
 Person_2.deposit(5)
 Person_2.display()
 
@@ -39,6 +39,6 @@ Person_2.display()
 Person_1.withdraw(3)
 Person_1.display()
 
-# Calling withdraw method on Person_1 & displaying balance after transactions
+# Calling withdraw method on Person_2 & displaying balance after transactions
 Person_2.withdraw(2)
 Person_2.display()
